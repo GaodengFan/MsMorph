@@ -3,7 +3,6 @@ import torch.nn.functional as F
 import torch
 from torch import nn
 import pystrum.pynd.ndutils as nd
-from medpy.metric import binary
 class AverageMeter(object):
     """Computes and stores the average and current value"""
     def __init__(self):
