@@ -1,10 +1,8 @@
 import os
-
 import torch
 import torch.nn.functional as F
 import numpy as np
 import math
-import SimpleITK as sitk
 
 class Grad3d(torch.nn.Module):
     """
