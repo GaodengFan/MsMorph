@@ -10,7 +10,7 @@ Typically, they would repeatedly compare the images, identify areas of dissimila
 
 <img src="https://github.com/GaodengFan/MsMorph/blob/main/img/network.png" alt="image-20241028120154973" style="zoom: 80%;" />
 
-<img src="(https://github.com/GaodengFan/MsMorph/blob/main/img/Differential%20Def.png)" style="zoom: 80%;" />
+<img src="https://github.com/GaodengFan/MsMorph/blob/main/img/Differential%20Def.png" style="zoom: 80%;" />
 
 ### Datasets
 
