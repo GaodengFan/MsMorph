@@ -8,9 +8,9 @@ How would a human perform manual registration?
 
 Typically, they would repeatedly compare the images, identify areas of dissimilarity, and make adjustments to enhance their similarity. Based on this approach, we propose MsMorph:
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20241028120154973.png" alt="image-20241028120154973" style="zoom: 80%;" />
+<img src="https://github.com/GaodengFan/MsMorph/blob/main/img/network.png" alt="image-20241028120154973" style="zoom: 80%;" />
 
-<img src="C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20241028121300433.png" alt="image-20241028121300433" style="zoom: 80%;" />
+<img src="(https://github.com/GaodengFan/MsMorph/blob/main/img/Differential%20Def.png)" style="zoom: 80%;" />
 
 ### Datasets
 
